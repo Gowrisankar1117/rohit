@@ -1,12 +1,12 @@
  HELLO BAYYA W R U DOING hi sir;  
-hello 
-how r u 
-int a=10,b=30;
 scan{a & b}
 not dscan yar yap mey girl ho gaya body twinkle twinkle little start havvayam vantam arokaya butvthe prabas
 printf ("a nd b")
 we are from linux background and we did lot45: of functions
-in linux operating system
 but u are also came from linux only
 catched date was deleted by me only krishna prabha and krishna arjuna yuddam
 mechanical engineer
+tell something about 
+git and github 
+we are started our class at 10;45
+i want to give a one more line
